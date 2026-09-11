@@ -30,9 +30,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-fylo-data-storage-component-html5-and-css3-Ox-BE-TTIQ)
 
-- Live Site URL: [Live site URL]()
+- Live Site URL: [Live site URL](https://debumandal.github.io/fylo-data-storage-component/)
 
 ## My process
 

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="My responsive solution to the Frontend Mentor Fylo data storage component challenge, built with semantic HTML and CSS."
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <title>Frontend Mentor | Fylo data storage component</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="responsive.css" />
+  </head>
+  <body>
+    <main class="container">
+      <section class="storage-container">
+        <img class="logo-icon" src="./images/logo.svg" alt="" />
+        <div class="storage-type">
+          <button
+            type="button"
+            aria-label="Upload document"
+            class="btn doc-type"
+          >
+            <img src="./images/icon-document.svg" alt="" />
+          </button>
+          <button
+            type="button"
+            aria-label="Upload folder"
+            class="btn folder-type"
+          >
+            <img src="./images/icon-folder.svg" alt="" />
+          </button>
+          <button type="button" aria-label="Upload" class="btn upload">
+            <img src="./images/icon-upload.svg" alt="" />
+          </button>
+        </div>
+      </section>
+
+      <section class="data-info">
+        <p>You’ve used <strong>815 GB</strong> of your storage</p>
+        <div class="total-data">
+          <div class="used-data"><span></span></div>
+        </div>
+        <div class="data-range">
+          <p class="range"><span>0 GB</span><span>1000 GB</span></p>
+        </div>
+        <div class="data-remaining">
+          <h2><span>185</span><span class="data-left">GB Left</span></h2>
+        </div>
+      </section>
+    </main>
+
+    <footer class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.
+      Coded by <a href="#">Debu Mandal</a>.
+    </footer>
+  </body>
+</html>

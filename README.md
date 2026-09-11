@@ -141,6 +141,8 @@ In future projects, I plan to continue refining:
 
 ## Author
 
-- Frontend Mentor - [@Debumandal]()
+- Frontend Mentor - [@DebuMandal](https://www.frontendmentor.io/profile/debumandal)
 
-- GitHub - [@Debumandal]()
+- LinkedIn - [@DebuMandal](https://www.linkedin.com/in/debumandal-dev/)
+
+- Github - [@DebuMandal] (https://github.com/debumandal)
